@@ -1,0 +1,14 @@
+C:\dev\mitali-patel\MYOBCodingTest\CSVProcessTest\bin\Release\App.config
+C:\dev\mitali-patel\MYOBCodingTest\CSVProcessTest\bin\Release\CSVProcessTest.dll.config
+C:\dev\mitali-patel\MYOBCodingTest\CSVProcessTest\bin\Release\CSVProcessTest.dll
+C:\dev\mitali-patel\MYOBCodingTest\CSVProcessTest\bin\Release\CSVProcessTest.pdb
+C:\dev\mitali-patel\MYOBCodingTest\CSVProcessTest\bin\Release\CodingTest.exe
+C:\dev\mitali-patel\MYOBCodingTest\CSVProcessTest\bin\Release\Moq.dll
+C:\dev\mitali-patel\MYOBCodingTest\CSVProcessTest\bin\Release\CsvHelper.dll
+C:\dev\mitali-patel\MYOBCodingTest\CSVProcessTest\bin\Release\CodingTest.pdb
+C:\dev\mitali-patel\MYOBCodingTest\CSVProcessTest\bin\Release\Moq.pdb
+C:\dev\mitali-patel\MYOBCodingTest\CSVProcessTest\bin\Release\Moq.xml
+C:\dev\mitali-patel\MYOBCodingTest\CSVProcessTest\bin\Release\CsvHelper.xml
+C:\dev\mitali-patel\MYOBCodingTest\CSVProcessTest\obj\Release\CodingTest.Test.csprojResolveAssemblyReference.cache
+C:\dev\mitali-patel\MYOBCodingTest\CSVProcessTest\obj\Release\CSVProcessTest.dll
+C:\dev\mitali-patel\MYOBCodingTest\CSVProcessTest\obj\Release\CSVProcessTest.pdb

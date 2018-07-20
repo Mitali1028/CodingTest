@@ -1,0 +1,7 @@
+C:\dev\mitali-patel\MYOBCodingTest\MYOBCodingTest\bin\Release\CodingTest.exe.config
+C:\dev\mitali-patel\MYOBCodingTest\MYOBCodingTest\bin\Release\CodingTest.exe
+C:\dev\mitali-patel\MYOBCodingTest\MYOBCodingTest\bin\Release\CodingTest.pdb
+C:\dev\mitali-patel\MYOBCodingTest\MYOBCodingTest\bin\Release\CsvHelper.dll
+C:\dev\mitali-patel\MYOBCodingTest\MYOBCodingTest\bin\Release\CsvHelper.xml
+C:\dev\mitali-patel\MYOBCodingTest\MYOBCodingTest\obj\Release\CodingTest.exe
+C:\dev\mitali-patel\MYOBCodingTest\MYOBCodingTest\obj\Release\CodingTest.pdb
